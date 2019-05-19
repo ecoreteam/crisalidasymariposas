@@ -1,0 +1,2 @@
+2019-05-18T02:07:27+00:00 CRITICAL Cannot redeclare infoCantidadMinima() (previously declared in /home/crisalid/public_html/wp-content/themes/spring-plant-child/functions.php:57) en /home/crisalid/public_html/wp-content/themes/spring-plant-child/functions.php en la línea 66
+
